@@ -1,2 +1,4 @@
 # emarket
-platfornm where business build and their online platforms, services and goods. users can view available business and their services and goods. 
+ This is a platform where businesses can create or build their online presence, as well as showcase their areas of expertise,  goods and services. Users can also view available businesses and their services and goods on this platform. 
+
+ Thanks for your audience.
